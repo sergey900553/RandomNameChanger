@@ -46,13 +46,6 @@ namespace RandomNameChanger
 
         private static readonly Random rnd = new Random();
 
-
-
-
-        
-
-
-
         public string GeneratedName()
         {
             string parameters = "abcdefghijklnopqrstuvwxyz1234567890";
